@@ -10,8 +10,8 @@ This program is designed for use as a data trigger in an automation printing sys
 <H1>Overview</H1>
 
 <p align="center"> 
-
-![Alt text](img/image.png)
+  
+  ![Alt text](img/image.png) </p> 
 
 <p align="center"> Figure : Bartendeer Ver2-8 </p> 
 
